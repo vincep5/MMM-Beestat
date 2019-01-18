@@ -1,0 +1,9 @@
+{
+  "name": "MMM-Beestat",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "dependencies": {
+    "chart.js": "^2.7.0"
+  }
+}
