@@ -6,7 +6,7 @@ For more information visit: https://beestat.io
 
 ## API
 Uses the open api that Beestat provides
-https://documenter.getpostman.com/view/6332024/RznFnd99
+https://api.beestat.io/doc
 You will have to request the api key from beestat
 
 ## Preview
