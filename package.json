@@ -4,6 +4,7 @@
   "description": "",
   "author": "",
   "dependencies": {
-    "chart.js": "^2.7.0"
+    "chart.js": "^2.9.4",
+    "request" : "^2.88.2"
   }
 }
